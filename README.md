@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/PedroRuffo/PedroRuffo/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-PedroRuffo.vercel.app/api/top-langs/?username=PedroRuffo&show_icons=true&theme=radical&layout=compact" /><img align="center" style="margin-bottom:100px" width=100% src="https://github.com/PedroRuffo/PedroRuffo/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
@@ -21,6 +21,9 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 &nbsp;
 &nbsp;
 
