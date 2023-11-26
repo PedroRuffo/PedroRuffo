@@ -11,7 +11,9 @@ I live in Campinas and Technology is a Hooby for now 💻</p>&nbsp;
  &nbsp;
  &nbsp;
 
-<a class="btn btn-dark" href="https://www.buymeacoffee.com/pedroruffo">Buy me a coffee!</a>
+If you like what i do, maybe consider buying me a coffee/tea 🥺
+
+https://www.buymeacoffee.com/pedroruffo
 
 ## My Skills
 
