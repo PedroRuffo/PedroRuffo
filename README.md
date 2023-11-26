@@ -13,7 +13,7 @@ I live in Campinas and Technology is a Hooby for now 💻</p>&nbsp;
 
 If you like what i do, maybe consider buying me a coffee/tea 🥺
 
-https://www.buymeacoffee.com/pedroruffo"
+https://www.buymeacoffee.com/pedroruffo
 
 ## My Skills
 
