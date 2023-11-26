@@ -1,7 +1,7 @@
 <img width=100% align="center" src="https://i.imgur.com/RJ14EDO.png" /><img align="center" style="margin-bottom:100px" width=100% src="[https://imgur.com/7huLwzR](https://i.imgur.com/7huLwzR.png)" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I'm an IT student
+<p align="center">I'm an IT student </a>
 I live in Campinas and Technology is a Hooby for now 💻</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
