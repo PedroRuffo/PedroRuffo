@@ -11,7 +11,7 @@ I live in Campinas and Technology is a Hooby for now 💻</p>&nbsp;
  &nbsp;
  &nbsp;
 
-How about buying me a coffee/tea 🥺
+How about buying me a coffee/tea? 🥺
 
 <a href="https://www.buymeacoffee.com/pedroruffo" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
 
