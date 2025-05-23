@@ -1,5 +1,4 @@
-## Olá, meu nome é Pedro Ruffo.
-## Seja bem-vindo(a) ao meu portifólio!
+## Olá, meu nome é Pedro Ruffo. <br> Seja bem-vindo(a) ao meu portifólio!
 
 <p align="center">
 
