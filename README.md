@@ -9,6 +9,8 @@
  - 📅 Curso de Informática para a Internet da FIEC - Concluido em 2024
 
 - 💻 Desenvolvendo minhas habilidades no Front-End e Back-End.
+
+- 🚀 Gosto de me aventurar pelas tecnologias!
 </p>&nbsp;
 
 
