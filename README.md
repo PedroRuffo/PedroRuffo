@@ -1,7 +1,8 @@
 <img width=100% align="center" src="https://i.imgur.com/RJ14EDO.png" /><img align="center" style="margin-bottom:100px" width=100% src="[https://imgur.com/7huLwzR](https://i.imgur.com/7huLwzR.png)" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">- 🎓 Cursando Desenvolvimento de Software Multiplataforma na FATEC
+<p align="center">
+ - 🎓 Cursando Desenvolvimento de Software Multiplataforma na FATEC
 
 - 📅 Curso de Informática para a Internet da FIEC - Concluido em 2024
 
