@@ -32,12 +32,6 @@
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-&nbsp;
-&nbsp;
-
 ## Contatos:
 
 <div> 
@@ -46,3 +40,13 @@
 </a>
 <a href = "mailto:ph.ruffo.s@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+&nbsp;
+&nbsp;
+
