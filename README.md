@@ -1,5 +1,5 @@
-<img width=100% align="center" src="https://i.imgur.com/RJ14EDO.png" /><img align="center" style="margin-bottom:100px" width=100% src="[https://imgur.com/7huLwzR](https://i.imgur.com/7huLwzR.png)" />
-&nbsp;&nbsp;&nbsp;
+## Olá, meu nome é Pedro Ruffo.
+## Seja bem-vindo(a) ao meu portifólio!
 
 <p align="center">
 
