@@ -59,7 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="400"/>
 
----
 
-<!-- Separador visual -->
-<img src="https://raw.githubusercontent.com/AkashRajpurohit/portfolio-assets/main/svg/wave-blue.svg" width="100%"/>
